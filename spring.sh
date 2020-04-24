@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo yum -y update
 sudo yum -y install git wget mc
-
+echo Hello World
 #coretto JDK JRE
     sudo wget https://d1f2yzg3dx5xke.cloudfront.net/java-1.8.0-amazon-corretto-devel-1.8.0_202.b08-1.amzn2.x86_64.rpm
     sudo wget https://d1f2yzg3dx5xke.cloudfront.net/java-1.8.0-amazon-corretto-1.8.0_202.b08-1.amzn2.x86_64.rpm
